@@ -1,12 +1,3 @@
-# Site Settings
-
-theme: jekyll-theme-hacker
-locale                   : "en"
-title                    : "P Value Caculator"
-title_separator          : "-"
-name                     : "Li Mo"
-description              : "Powered by jekyll-theme-hacker"
-url                      : 
-baseurl                  : 
-repository               : "limohaha/MoPvalueCalc.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+permalink: /:categories/:year/:month/:title/
+title: My Awesome Site's Title
+description: Description of my website
